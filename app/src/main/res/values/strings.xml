@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirebaseAuthWorking</string>
+    <string name="please_enter_valid_number">Please enter a valid number \n 3001234567</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="number_format">300XXXXXXX</string>
+    <string name="enter_otp">Enter OTP</string>
+</resources>
